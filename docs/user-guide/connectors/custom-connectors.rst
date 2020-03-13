@@ -80,3 +80,5 @@ posted the message to the channel:
 
 .. literalinclude:: ../../../rasa/core/channels/channel.py
    :pyobject: RestInput
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
