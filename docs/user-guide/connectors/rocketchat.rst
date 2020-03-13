@@ -50,3 +50,5 @@ you need to supply a ``credentials.yml`` with the following content:
      user: "yourbotname"
      password: "YOUR_PASSWORD"
      server_url: "https://demo.rocket.chat"
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
