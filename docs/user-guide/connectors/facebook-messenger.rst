@@ -69,3 +69,5 @@ The endpoint for receiving Facebook messenger messages is
 ``http://localhost:5005/webhooks/facebook/webhook``, replacing
 the host and port with the appropriate values. This is the URL
 you should add in the configuration of the webhook.
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
