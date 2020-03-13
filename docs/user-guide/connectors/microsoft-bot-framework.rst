@@ -27,3 +27,5 @@ you need to supply a ``credentials.yml`` with the following content:
    botframework:
      app_id: "MICROSOFT_APP_ID"
      app_password: "MICROSOFT_APP_PASSWORD"
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
