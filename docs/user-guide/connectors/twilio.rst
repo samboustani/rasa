@@ -46,3 +46,5 @@ you need to supply a ``credentials.yml`` with the following content:
      account_sid: "ACbc2dxxxxxxxxxxxx19d54bdcd6e41186"
      auth_token: "e231c197493a7122d475b4xxxxxxxxxx"
      twilio_number: "+440123456789"
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
