@@ -76,3 +76,5 @@ The endpoint for receiving slack messages is
 the host and port with the appropriate values. This is the URL
 you should add in the "OAuth & Permissions" section as well as
 the "Event Subscriptions".
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
