@@ -44,3 +44,5 @@ you need to supply a ``credentials.yml`` with the following content:
      access_token: "490161424:AAGlRxinBRtKGb21_rlOEMtDFZMXBl6EC0o"
      verify: "your_bot"
      webhook_url: "https://your_url.com/webhooks/telegram/webhook"
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
