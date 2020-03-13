@@ -57,3 +57,5 @@ you should add in the OAuth & Permissions section.
    If you do not set the ``room`` keyword
    argument, messages will by delivered back to
    the user who sent them.
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
