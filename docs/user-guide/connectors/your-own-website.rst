@@ -147,3 +147,5 @@ and the following ``JSON`` body:
    [
      {"text": "Hey Rasa!"}, {"image": "http://example.com/image.jpg"}
    ]
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
