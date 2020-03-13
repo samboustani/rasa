@@ -63,3 +63,5 @@ you need to supply a ``credentials.yml`` with the following content:
 The endpoint for receiving Mattermost channel messages
 is ``/webhooks/mattermost/webhook``, the same as ``webhook_url`` here. You should
 add this url also in the Mattermost outgoing webhook.
+
+Related topic: `Messaging and Voice Channels <https://rasa.com/docs/rasa/user-guide/messaging-and-voice-channels/#id1>`_.
